@@ -5,13 +5,13 @@
 🚀 Foco em **Desenvolvimento Back-End**  
 
 ### 🛠️ Tecnologias e Ferramentas:
-- **Linguagens:** C, Java    
+- **Linguagens:** C, Golang    
 - **Infraestrutura:** Redes de Computadores, Suporte Técnico
-- **Ferramentas:** Git, GitHub, Sublime text
+- **Ferramentas:** Git, GitHub, Sublime text, Vs Code, Docker
 
 ### 🔎 Atualmente:
 - 📌 Trabalhando como **Suporte Técnico em TI** em uma indústria de roupas.  
-- 🎯 Estudando **C** e aprofundando conhecimentos em **Desenvolvimento Web Back-End**.  
+- 🎯 Estudando **Golang/Docker** e aprofundando conhecimentos em **Desenvolvimento Web Back-End**.  
 
 ### 📊 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevSam&show_icons=true&theme=dracula)  
