@@ -16,6 +16,8 @@
 ### 📊 Estatísticas do GitHub:
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=DevSamSilva&show_icons=true&theme=dracula&cache_seconds=60)
 
+### 🔎 Linguagem mais Usada:
+
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamSilva&layout=compact&theme=dracula)
 
 ### 📫 Onde me encontrar:
