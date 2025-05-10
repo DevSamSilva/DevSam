@@ -14,7 +14,7 @@
 - 🎯 Estudando **Golang/Docker** e aprofundando conhecimentos em **Desenvolvimento Web Back-End**.  
 
 ### 📊 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevSamSilva&show_icons=true&theme=dracula)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=DevSamSilva&show_icons=true&theme=dracula&cache_seconds=60)
 
 ### 📫 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Nascimento-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-nascimento-05b94a263)
